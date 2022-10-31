@@ -1,0 +1,17 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.StripBandunk.Belajar.Data;
+
+/**
+ *
+ * @author hp
+ */
+public class Binatang {
+    String nama;
+    String jenis;
+    int kaki;
+    int tangan;
+}
